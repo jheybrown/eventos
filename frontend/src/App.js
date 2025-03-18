@@ -8,7 +8,6 @@ import ConfirmPresencePage from './pages/ConfirmPresencePage';
 import RegisterGuestPage from './pages/RegisterGuestPage';
 import SendInvitePage from './pages/SendInvitePage';
 import LoginPage from './pages/LoginPage';
-import NavBar from './components/NavBar';
 import RegisterPage from './pages/RegisterPage';
 import MainLayout from './layouts/MainLayout';
 
